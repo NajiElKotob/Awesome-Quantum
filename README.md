@@ -15,3 +15,6 @@
 
 ## Learning
 * [Quantum computing foundations (Microsoft)](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
+
+## Vidoes :tv:
+* [A beginner's guide to quantum computing | Shohini Ghose](https://www.youtube.com/watch?v=QuR969uMICM)
