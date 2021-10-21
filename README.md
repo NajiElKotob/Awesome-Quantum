@@ -7,3 +7,6 @@
   - [Start coding with Python in Quantum Lab](https://quantum-computing.ibm.com/lab)
 * [Google](https://quantumai.google/) - quantumai.google
 
+
+## Software Development Kit (SDK)
+* [Qiskit](https://qiskit.org/) - qiskit.org | Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
