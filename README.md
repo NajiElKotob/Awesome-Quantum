@@ -12,3 +12,6 @@
 ## Software Development Kit (SDK) and Frameworks
 * [Qiskit](https://qiskit.org/) - qiskit.org | Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
 * [Cirq (Google)](https://quantumai.google/cirq) - quantumai.google | An open source framework for programming quantum computers
+
+## Learning
+* [Quantum computing foundations (Microsoft)](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
