@@ -3,6 +3,7 @@
 
 ## Big players
 * [Microsoft](https://azure.microsoft.com/en-us/solutions/quantum-computing/) - microsoft.com
+  - [Research](https://www.microsoft.com/en-us/research/research-area/quantum-computing/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=243138&sort_by=most-recent)
 * [IBM](https://www.ibm.com/quantum-computing/) - ibm.com
   - [Start coding with Python in Quantum Lab](https://quantum-computing.ibm.com/lab)
 * [Google](https://quantumai.google/) - quantumai.google
