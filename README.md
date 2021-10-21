@@ -18,3 +18,4 @@
 
 ## Vidoes :tv:
 * [A beginner's guide to quantum computing | Shohini Ghose](https://www.youtube.com/watch?v=QuR969uMICM)
+* [A Beginner’s Guide To Quantum Computing](https://www.youtube.com/watch?v=JRIPV0dPAd4) - Coding Tech
