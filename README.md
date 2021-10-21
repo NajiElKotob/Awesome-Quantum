@@ -9,5 +9,6 @@
 * [Google](https://quantumai.google/) - quantumai.google
 
 
-## Software Development Kit (SDK)
+## Software Development Kit (SDK) and Frameworks
 * [Qiskit](https://qiskit.org/) - qiskit.org | Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
+* [Cirq (Google)](https://quantumai.google/cirq) - quantumai.google | An open source framework for programming quantum computers
